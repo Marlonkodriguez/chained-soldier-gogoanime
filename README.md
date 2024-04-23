@@ -1,5 +1,7 @@
 # chained-soldier-gogoanime
 
+<img src="https://github.com/Marlonkodriguez/chained-soldier-gogoanime/blob/main/cs.png"/>
+
 ***Popular classic anime never goes out of style, and there aren't many sites like Gogoanime that offer the most up-to-date and hottest online streaming***
 
 *The story hinges on a place called Mato, where people land after a strange event and gain powers from magical peaches. While there are monsters and an "Anti-Demon Corp" fighting them, focusing on Mato as a bleak wasteland is unlikely to develop characters or move the plot forward. This is because Mato itself is not very well-developed. There's some character growth outside of Mato, but it's so predictable that it's not worth mentioning*
@@ -16,3 +18,4 @@
 
 +  **Stars: Yuya Hirose Akari Kitô Yume Miyamoto**
 
+<img src="https://github.com/Marlonkodriguez/chained-soldier-gogoanime/blob/main/dl.png"/>
